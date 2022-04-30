@@ -2,12 +2,10 @@ module.exports = () => {
   return [
     '',
     {
-      title: '道德经',
-      path: '/practice/tao/',
+      title: '我的家乡',
+      path: '/material/home/',
       collapsable: false,
       children: [
-        'tao/CHAPTER01.md',
-        'tao/CHAPTER02.md'
       ]
     }
   ]

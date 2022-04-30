@@ -1,5 +1,6 @@
 const { description } = require('../../package')
 const practice = require('../practice')
+const material = require('../material')
 
 module.exports = {
   /**
@@ -47,6 +48,10 @@ module.exports = {
         link: '/practice/'
       },
       {
+        text: '素材',
+        link: '/material/'
+      },
+      {
         text: 'VuePress',
         link: 'https://v1.vuepress.vuejs.org'
       }
@@ -62,7 +67,8 @@ module.exports = {
           ]
         }
       ],
-      '/practice/': practice()
+      '/practice/': practice(),
+      '/material/': material()
     }
   },
 
