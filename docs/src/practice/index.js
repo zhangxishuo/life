@@ -6,7 +6,8 @@ module.exports = () => {
       path: '/practice/tao/',
       collapsable: false,
       children: [
-        'tao/01.md'
+        'tao/01.md',
+        'tao/02.md'
       ]
     }
   ]
