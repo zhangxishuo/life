@@ -1,15 +1,15 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
+heroImage: https://cdn.seovx.com/ha/?mom=302
 tagline: 
-actionText: Quick Start →
-actionLink: /guide/
+actionText: 修行 →
+actionLink: /practice/
 features:
-- title: Feature 1 Title
-  details: Feature 1 Description
-- title: Feature 2 Title
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
-footer: Made by  with ❤️
+- title: 老子
+  details: 人法地，地法天，天法道，道法自然。
+- title: 庄子
+  details: 人之生，气之聚也；聚则为生，散则为死。
+- title: 周易
+  details: 生生之谓易，成象之谓乾，效法之谓坤。
+footer: Apache License 2.0
 ---
