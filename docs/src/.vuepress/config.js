@@ -13,6 +13,8 @@ module.exports = {
    */
   description: description,
 
+  base: '/life/',
+
   /**
    * Extra tags to be injected to the page HTML `<head>`
    *
