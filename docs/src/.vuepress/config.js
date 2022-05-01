@@ -1,4 +1,5 @@
 const { description } = require('../../package')
+const science  = require('../science')
 const practice = require('../practice')
 const material = require('../material')
 
@@ -40,15 +41,15 @@ module.exports = {
         link: '/guide/',
       },
       {
-        text: 'Config',
-        link: '/config/'
+        text: '科学',
+        link: '/science/'
       },
       {
         text: '修行',
         link: '/practice/'
       },
       {
-        text: '素材',
+        text: '文化',
         link: '/material/'
       },
       {
@@ -67,6 +68,7 @@ module.exports = {
           ]
         }
       ],
+      '/science/': science(),
       '/practice/': practice(),
       '/material/': material()
     }
