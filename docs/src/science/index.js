@@ -6,8 +6,7 @@ module.exports = () => {
       path: '/science/compile/',
       collapsable: false,
       children: [
-        'compile/CHAPTER01.md',
-        'compile/CHAPTER02.md'
+        'compile/01.lexical-analysis.md'
       ]
     }
   ]
