@@ -15,6 +15,14 @@ module.exports = () => {
         'compile/07.generation.md',
         'compile/08.java-compiler.md'
       ]
+    },
+    {
+      title: '深入理解Java虚拟机',
+      path: '/science/jvm',
+      collapsable: false,
+      children: [
+        'jvm/01.basic-type.md'
+      ]
     }
   ]
 }
