@@ -10,7 +10,10 @@ module.exports = () => {
         'compile/02.syntactic-analysis.md',
         'compile/03.semantic-analysis.md',
         'compile/04.runtime.md',
-        'compile/05.intermediate-representation.md'
+        'compile/05.intermediate-representation.md',
+        'compile/06.optimization.md',
+        'compile/07.generation.md',
+        'compile/08.java-compiler.md'
       ]
     }
   ]
