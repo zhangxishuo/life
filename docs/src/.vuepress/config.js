@@ -1,4 +1,5 @@
 const { description } = require('../../package')
+const project  = require('../project')
 const science  = require('../science')
 const practice = require('../practice')
 const material = require('../material')
@@ -41,7 +42,7 @@ module.exports = {
     nav: [
       {
         text: '工程',
-        link: '/guide/',
+        link: '/project/',
       },
       {
         text: '科学',
@@ -61,16 +62,7 @@ module.exports = {
       }
     ],
     sidebar: {
-      '/guide/': [
-        {
-          title: 'Guide',
-          collapsable: false,
-          children: [
-            '',
-            'using-vue',
-          ]
-        }
-      ],
+      '/project/': project(),
       '/science/': science(),
       '/practice/': practice(),
       '/material/': material()
