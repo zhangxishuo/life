@@ -11,5 +11,5 @@ features:
   details: 人之生，气之聚也；聚则为生，散则为死。
 - title: 周易
   details: 生生之谓易，成象之谓乾，效法之谓坤。
-footer: Apache License 2.0
+footer: 生死气化，顺应自然。
 ---

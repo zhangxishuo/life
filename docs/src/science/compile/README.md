@@ -55,7 +55,7 @@ Hello World!
 
 ![语义分析](./media/00/03.jpg)
 
-## 中间代码（Inter./media/00te Representation）
+## 中间代码（Intermediate Representation）
 
 中间代码`IR`，是处于源代码和目标代码之间的一种表示形式。
 
