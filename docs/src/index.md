@@ -2,7 +2,7 @@
 home: true
 heroImage: https://cdn.seovx.com/ha/?mom=302
 tagline: 
-actionText: 修行 →
+actionText: Discover the value of life →
 actionLink: /practice/
 features:
 - title: 老子

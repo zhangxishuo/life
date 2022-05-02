@@ -7,7 +7,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'life',
+  title: '浅梦辄止，书墨未浓',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -21,6 +21,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/config/#head
    */
   head: [
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
@@ -39,7 +40,7 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Guide',
+        text: '工程',
         link: '/guide/',
       },
       {
@@ -55,8 +56,8 @@ module.exports = {
         link: '/material/'
       },
       {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
+        text: 'Github',
+        link: 'https://github.com/zhangxishuo'
       }
     ],
     sidebar: {
