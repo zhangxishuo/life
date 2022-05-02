@@ -8,7 +8,9 @@ module.exports = () => {
       children: [
         'compile/01.lexical-analysis.md',
         'compile/02.syntactic-analysis.md',
-        'compile/03.semantic-analysis.md'
+        'compile/03.semantic-analysis.md',
+        'compile/04.runtime.md',
+        'compile/05.intermediate-representation.md'
       ]
     }
   ]
