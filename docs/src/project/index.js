@@ -17,7 +17,7 @@ module.exports = () => {
       ]
     },
     {
-      title: '深入理解Java虚拟机',
+      title: '深入拆解 Java 虚拟机',
       path: '/project/jvm',
       collapsable: false,
       children: [
