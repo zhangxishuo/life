@@ -13,7 +13,7 @@ module.exports = () => {
         'compile/05.intermediate-representation.md',
         'compile/06.optimization.md',
         'compile/07.generation.md',
-        'compile/08.java-compiler.md'
+        'compile/08.java-compiler-1.md'
       ]
     },
     {
