@@ -4,7 +4,7 @@ module.exports = () => {
     {
       title: '道德经',
       path: '/practice/tao/',
-      collapsable: false,
+      collapsable: true,
       children: [
         'tao/CHAPTER01.md',
         'tao/CHAPTER02.md'

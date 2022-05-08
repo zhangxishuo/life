@@ -1,3 +1,5 @@
+import './styles/fonts/index.styl'
+
 /**
  * Client app enhancement file.
  *

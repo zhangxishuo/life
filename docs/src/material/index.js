@@ -4,7 +4,7 @@ module.exports = () => {
     {
       title: '我的家乡',
       path: '/material/home/',
-      collapsable: false,
+      collapsable: true,
       children: [
       ]
     }
