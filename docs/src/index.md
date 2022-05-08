@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://cdn.seovx.com/ha/?mom=302
+heroImage: https://avatars.githubusercontent.com/u/28392885
 tagline: 
 actionText: Discover the value of life →
 actionLink: /practice/
