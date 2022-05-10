@@ -6,6 +6,7 @@ module.exports = () => {
       path: '/material/home/',
       collapsable: true,
       children: [
+        'home/01.journey-to-northeast.md'
       ]
     }
   ]
