@@ -2,7 +2,7 @@
 home: true
 heroImage: https://avatars.githubusercontent.com/u/28392885
 tagline: 
-actionText: Discover the value of life →
+actionText: 生命的意义 →
 actionLink: /practice/
 features:
 - title: 老子
@@ -11,5 +11,5 @@ features:
   details: 人之生，气之聚也；聚则为生，散则为死。
 - title: 周易
   details: 生生之谓易，成象之谓乾，效法之谓坤。
-footer: 生死气化，顺应自然。
+footer: 生死气化，顺应自然 ｜ 光明磊落，一身正气
 ---
