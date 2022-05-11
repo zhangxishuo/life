@@ -23,7 +23,7 @@ module.exports = () => {
       children: [
         'jvm/01.basic-type.md',
         'jvm/02.class-load.md',
-        'jvm/03.method-call.md'
+        'jvm/03.method-call-1.md'
       ]
     }
   ]
