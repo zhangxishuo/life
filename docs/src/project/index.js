@@ -22,7 +22,8 @@ module.exports = () => {
       collapsable: true,
       children: [
         'jvm/01.basic-type.md',
-        'jvm/02.class-load.md'
+        'jvm/02.class-load.md',
+        'jvm/03.method-call.md'
       ]
     }
   ]
