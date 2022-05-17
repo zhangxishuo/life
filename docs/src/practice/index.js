@@ -7,7 +7,8 @@ module.exports = () => {
       collapsable: false,
       children: [
         'tao/CHAPTER01.md',
-        'tao/CHAPTER02.md'
+        'tao/CHAPTER02.md',
+        'tao/CHAPTER03.md'
       ]
     }
   ]
