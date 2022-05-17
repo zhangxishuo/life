@@ -4,7 +4,7 @@ module.exports = () => {
     {
       title: '人工智能',
       path: '/science/ai/',
-      collapsable: true,
+      collapsable: false,
       children: [
       ]
     }

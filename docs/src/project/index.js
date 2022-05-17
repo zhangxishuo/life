@@ -4,7 +4,7 @@ module.exports = () => {
     {
       title: '编译原理',
       path: '/project/compile/',
-      collapsable: true,
+      collapsable: false,
       children: [
         'compile/01.lexical-analysis.md',
         'compile/02.syntactic-analysis.md',
@@ -19,7 +19,7 @@ module.exports = () => {
     {
       title: '深入拆解 Java 虚拟机',
       path: '/project/jvm',
-      collapsable: true,
+      collapsable: false,
       children: [
         'jvm/01.basic-type.md',
         'jvm/02.class-load.md',

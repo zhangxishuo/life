@@ -4,7 +4,7 @@ module.exports = () => {
     {
       title: '我的家乡',
       path: '/material/home/',
-      collapsable: true,
+      collapsable: false,
       children: [
         'home/01.journey-to-northeast.md'
       ]
