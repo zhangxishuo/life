@@ -6,6 +6,7 @@ module.exports = () => {
       path: '/science/ai/',
       collapsable: false,
       children: [
+        'ai/01.definition.md'
       ]
     }
   ]
