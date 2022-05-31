@@ -1,6 +1,5 @@
 module.exports = () => {
   return [
-    '',
     {
       title: '编译原理',
       path: '/project/compile/',
