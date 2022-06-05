@@ -32,9 +32,9 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-yarn-
     - name: yarn build
-      run: cd docs && yarn install && yarn build
+      run: yarn install && yarn build
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.LIFE_TOKEN }}
-        publish_dir: ./docs/src/.vuepress/dist
+        publish_dir: ./src/.vuepress/dist
