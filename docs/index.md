@@ -1,8 +1,8 @@
 ---
 home: true
-heroImage: https://avatars.githubusercontent.com/u/28392885
+heroImage: /chinese-style.jpg
 tagline: 
-actionText: 生命的意义 →
+actionText: Discover →
 actionLink: /practice/
 features:
 - title: 老子
