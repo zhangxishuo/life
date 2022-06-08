@@ -1,6 +1,14 @@
 module.exports = () => {
   return [
     {
+      title: 'Spring Boot',
+      path: '/project/spring-boot/',
+      collapsable: false,
+      children: [
+        'spring-boot/01.hello-spring-boot.md'
+      ]
+    },
+    {
       title: '编译原理',
       path: '/project/compile/',
       collapsable: false,
