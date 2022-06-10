@@ -5,7 +5,7 @@ module.exports = () => {
       path: '/project/spring-boot/',
       collapsable: false,
       children: [
-        'spring-boot/01.hello-spring-boot.md'
+        'spring-boot/01.prepare.md'
       ]
     },
     {

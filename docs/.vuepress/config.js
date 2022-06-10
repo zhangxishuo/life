@@ -8,7 +8,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: '浅梦辄止，书墨未浓',
+  title: 'life',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -57,7 +57,7 @@ module.exports = {
         link: '/practice/'
       },
       {
-        text: '文化',
+        text: '传承',
         link: '/material/'
       },
       {
