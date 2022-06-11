@@ -19,6 +19,11 @@ jobs:
     # 签出你在 $GITHUB_WORKSPACE 下的仓库，这样你的工作就可以访问它。
     - uses: actions/checkout@v2
 
+    - name: Markdown Check
+      run: find docs -name '*.md'
+    - name: Word Count
+      run: find docs -name '*.md' -exec cat {} \; | wc -m
+
     # 缓存 yarn 的依赖？
     - name: Get yarn cache directory path
       id: yarn-cache-dir-path
