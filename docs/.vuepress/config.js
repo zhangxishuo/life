@@ -2,7 +2,7 @@ const { description } = require('../../package')
 const project  = require('../project')
 const science  = require('../science')
 const practice = require('../practice')
-const material = require('../material')
+const inherit  = require('../inherit')
 
 module.exports = {
   /**
@@ -46,7 +46,7 @@ module.exports = {
     nav: [
       {
         text: '工程',
-        link: '/project/',
+        link: '/project/'
       },
       {
         text: '科学',
@@ -58,7 +58,7 @@ module.exports = {
       },
       {
         text: '传承',
-        link: '/material/'
+        link: '/inherit/'
       },
       {
         text: 'Github',
@@ -66,10 +66,10 @@ module.exports = {
       }
     ],
     sidebar: {
-      '/project/': project(),
-      '/science/': science(),
+      '/project/' : project(),
+      '/science/' : science(),
       '/practice/': practice(),
-      '/material/': material()
+      '/inherit/' : inherit()
     }
   },
 
