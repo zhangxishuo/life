@@ -10,7 +10,8 @@ module.exports = () => {
         'tao/CHAPTER03.md',
         'tao/CHAPTER04.md',
         'tao/CHAPTER05.md',
-        'tao/CHAPTER06.md'
+        'tao/CHAPTER06.md',
+        'tao/CHAPTER07.md'
       ]
     }
   ]
