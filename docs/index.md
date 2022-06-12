@@ -2,8 +2,8 @@
 home: true
 heroImage: /chinese-style.jpg
 tagline: 
-actionText: Discover →
-actionLink: /practice/
+actionText: Hello Spring Boot →
+actionLink: /project/spring-boot/
 features:
 - title: 老子
   details: 人法地，地法天，天法道，道法自然。
