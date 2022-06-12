@@ -10,6 +10,15 @@ module.exports = () => {
       ]
     },
     {
+      title: 'React',
+      path: '/project/react/',
+      collapsable: false,
+      children: [
+        'react/01.prepare.md',
+        'react/02.hello-world.md'
+      ]
+    },
+    {
       title: '编译原理',
       path: '/project/compile/',
       collapsable: false,
