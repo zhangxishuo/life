@@ -6,7 +6,8 @@ module.exports = () => {
       collapsable: false,
       children: [
         'spring-boot/01.prepare.md',
-        'spring-boot/02.init-project.md'
+        'spring-boot/02.init-project.md',
+        'spring-boot/03.hello-world.md'
       ]
     },
     {
